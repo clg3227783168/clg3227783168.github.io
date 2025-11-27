@@ -1,5 +1,5 @@
 ---
-title:如何与cc交流
+title: 如何与cc交流
 ---
 1、除非在 planmode，永远不要纠正 CC。如果 CC 做错了，直接 clear → git reset ->修改原始 prompt 叫他不要犯这个错。不然你去纠正他的话，你就会收到典中典的“您说的对”。
 2、永远不要使用 /compact。你就当没有这个命令，如果一个需求执行到 context 满了还没完成，把这个需求拆成两个。 clear → git reset → 只做第一个需求。
